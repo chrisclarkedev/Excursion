@@ -2,4 +2,4 @@
 
 
 ## Description ##
-Full scrollable page using PagePiling.js
+Full scrollable page using PagePiling.js displaying various vacation locations.
