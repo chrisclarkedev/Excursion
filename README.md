@@ -3,4 +3,4 @@
 Click [here](http://page-piling.surge.sh/) to try!
 
 ## Description ##
-Full scrollable page using PagePiling.js displaying various vacation locations.
+Full scrollable pages using PagePiling.js displaying various vacation locations.
