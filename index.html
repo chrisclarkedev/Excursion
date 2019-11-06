@@ -35,7 +35,14 @@
   <script src="jquery.pagepiling.js"></script>
   <script type="text/javascript">
     $(document).ready(function () {
-      $('#pagepiling').pagepiling();
+      $('#pagepiling').pagepiling({
+        navigation: {
+          'textColor': '#fff',
+          'bulletsColor': '#fff',
+          'position': 'right',
+          'tooltips': ['New York', 'Brazil', 'Tokyo', 'Cuba', 'London', 'Thailand']
+        }
+      });
     });
   </script>
 </body>
