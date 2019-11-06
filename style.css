@@ -29,12 +29,12 @@
   background-size: cover;
 }
 
-/* #pagepiling .section.sec3{
-  background: url(https://images.unsplash.com/photo-1521794414102-37606728dd9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+#pagepiling .section.sec3{
+  background: url(https://images.unsplash.com/photo-1543528074-c13075cbe5d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
   background-size: cover;
 }
 
-#pagepiling .section.sec4{
+/* #pagepiling .section.sec4{
   background: url(https://images.unsplash.com/photo-1521794414102-37606728dd9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
   background-size: cover;
 }
